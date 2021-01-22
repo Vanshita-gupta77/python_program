@@ -1,0 +1,4 @@
+#program to find area of triangle
+base=int(input("Enter base here\n"))
+height=int(input("Enter height\n"))
+print("Area of triangle is {}".format(0.5*base*height))
