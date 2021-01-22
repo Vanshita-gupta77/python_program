@@ -1,0 +1,4 @@
+#Python Program to Convert Celsius To Fahrenheit
+tem_in_c=int(input("Enter temerature in celsiud\n"))
+tem_in_f=(tem_in_c*1.8)+32
+print("Temprature in f is {}".format(tem_in_f))
