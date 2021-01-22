@@ -1,0 +1,4 @@
+#program to add two number
+a=int(input())
+b=int(input())
+print(a+b)
