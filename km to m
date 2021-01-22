@@ -1,0 +1,4 @@
+#Python Program to Convert Kilometers to Miles
+value_in_km=int(input("Enter a value in km"))
+value_in_m=value_in_km/1000
+print("Value in meter is {}".format(value_in_m))
